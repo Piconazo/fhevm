@@ -95,3 +95,4 @@ jobs:
       previous-tag-or-commit: ${{ needs.check-changes-my-service.outputs.base-commit }}
       new-tag-or-commit: ${{ github.event.after }}
 ```
+# VPS Optimization Test: Running on 16-core infrastructure for high-performance FHE validation.
